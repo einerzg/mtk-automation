@@ -9,6 +9,7 @@ Features and bug fixes are listed in the [CHANGELOG][changelog] file.
 ## Code of conduct
 
 We welcome everyone to contribute. Make sure you have read the [CODE_OF_CONDUCT][coc] before.
+test
 
 ## Contributing
 
